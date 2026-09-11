@@ -5,14 +5,15 @@
 🚀 Running a homelab for learning & experiments  
 
 ## 🖥️ Homelab
-**Main Server:** HPE ProLiant DL360p Gen8  
-- 2 × Intel Xeon E5-2640 (12c / 24t)  
-- 96 GB DDR3 ECC  
-- 60 TB RAID 5  
+**Main Server:** HP ProDesk 600 G4 MT
+- Intel Core i5-8500 (6 Cores) @ 4.10 GHz 
+- NVIDIA GeForce GTX 1650
+- 32GB DDR4 
+- 8 TB RAID 5  
 - Proxmox VE + LXC & Docker  
 
-**Services:** AdGuard Home • Wireguard • Nextcloud • Immich • Jellyfin • qBittorrent • Sonarr • Jellyseerr • Grafana • InfluxDB • Nginx Proxy Manager • Homepage • CraftyController • Monica • 2FAuth • Home Assistant • Uptime Kuma • NetAlertX • iVentoy  
-
+**Services:** AdGuard Home • Wireguard • Nginx Proxy (crowdsec - ssl - geoip) • Authentik • Crowdsec • Cloud-Server (Nextcloud - Immich) • Media-Server (Jellyfin - Arr Stack) • Ollama • Docker • Home Assistant •  
+Pelican • UpTimeKuma • Homepage • Matrix • n8n
 ## 🔨 Projects
 - Homelab Setup & Documentation  
 - Minecraft Hybrid Server (Mods + Plugins, Mohist)  
