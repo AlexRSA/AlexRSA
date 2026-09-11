@@ -12,8 +12,7 @@
 - 8 TB RAID 5  
 - Proxmox VE + LXC & Docker  
 
-**Services:** AdGuard Home • Wireguard • Nginx Proxy (crowdsec - ssl - geoip) • Authentik • Crowdsec • Cloud-Server (Nextcloud - Immich) • Media-Server (Jellyfin - Arr Stack) • Ollama • Docker • Home Assistant •  
-Pelican • UpTimeKuma • Homepage • Matrix • n8n
+**Services:** AdGuard Home • Wireguard • Nginx Proxy (crowdsec - ssl - geoip) • Authentik • Crowdsec • Cloud-Server (Nextcloud - Immich) • Media-Server (Jellyfin - Arr Stack) • Ollama • Docker • Home Assistant • Pelican • UpTimeKuma • Homepage • Matrix • n8n
 ## 🔨 Projects
 - Homelab Setup & Documentation  
 - Minecraft Hybrid Server (Mods + Plugins, Mohist) 
