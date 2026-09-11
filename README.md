@@ -16,11 +16,12 @@
 Pelican • UpTimeKuma • Homepage • Matrix • n8n
 ## 🔨 Projects
 - Homelab Setup & Documentation  
-- Minecraft Hybrid Server (Mods + Plugins, Mohist)  
+- Minecraft Hybrid Server (Mods + Plugins, Mohist) 
 - Scripts & Tools (Bash / Python)  
-- Learning Log (ASIR + Cisco / Cybersecurity path)  
+- Learning Log (ASIR + Cisco / Cybersecurity path)
+- Hermes Agent 
 
 ## ⚡ Tech Stack
-Linux • Proxmox • Docker • Nginx • Grafana • Wireguard • Bash • Python  
+Linux • Proxmox • Docker • Nginx • Grafana • VPN • DNS • DHCP • Bash • Python 
 
 > *Learning by building, breaking & fixing.*
